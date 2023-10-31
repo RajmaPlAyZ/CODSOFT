@@ -1,3 +1,5 @@
+
+https://github.com/RajmaPlAyZ/CODSOFT/assets/115831130/97443213-c4f7-494e-a1e0-5924953148d2
 # CODSOFT
 internship projects repository.
 
@@ -19,11 +21,6 @@ Welcome to Aryan Kaul's internship project repository! Aryan has been working on
 
 4. **To-Do List with GUI using Flask Render Template**
    - An interactive web-based To-Do list application with a graphical user interface (GUI) built using Flask and render templates. Users can add, edit, and delete tasks in their to-do list.
-
-## VIDEO PRESENTATION 
-
-
-Uploading Video-Presentation.mp4…
 
 
 
